@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### My name is Chihaya Anon.
+### I like playing band as a guitarist.
+### Nowadays, we are stepping to the world around with the Internet, apppealing me to learn about it.
+### As a newbie, I recognize that there is a long way, so I will spare no effort to study.
+### Any suggestion is welcome and please feel free to ask.
+
 <!--
 **Anon-in-Git/Anon-in-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
